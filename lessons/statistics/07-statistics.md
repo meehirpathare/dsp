@@ -93,7 +93,7 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Bayesian and frequentist define probability in different terms, leading to different conclusions. Frequentist interpretation links probability to the frequency of an event occuring, while Bayesian probability concerns confidence in knowledge regarding an event.
 
 ---
 
